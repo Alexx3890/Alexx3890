@@ -30,7 +30,7 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java" />
 
-**Machine Learning & Data**
+**Machine Learning & Data Analysis**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
